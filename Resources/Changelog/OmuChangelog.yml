@@ -2474,3 +2474,9 @@ Entries:
       message: Removed the nexus from Avali and Resomi.
   id: 310
   time: '2026-03-08T10:46:18.0000000+00:00'
+- author: PhosphateWithManyOs
+  changes:
+    - type: Fix
+      message: Chemists get their beltbag back.
+  id: 311
+  time: '2026-03-08T17:55:49.0000000+00:00'
