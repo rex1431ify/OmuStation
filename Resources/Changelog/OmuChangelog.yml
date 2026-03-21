@@ -2692,3 +2692,9 @@ Entries:
         not crew.
   id: 342
   time: '2026-03-21T20:28:23.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: Cargo sop demands you ask CE before you smes farm... Beware...
+  id: 343
+  time: '2026-03-21T20:34:35.0000000+00:00'
