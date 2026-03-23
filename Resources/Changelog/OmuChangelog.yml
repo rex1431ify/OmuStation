@@ -2863,3 +2863,11 @@ Entries:
       message: Added a new job to security, the Sergeant
   id: 365
   time: '2026-03-22T21:52:56.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Remove
+      message: >-
+        Removed the swat gas mask from the maildrobe.. Dont know how that got
+        approved..
+  id: 366
+  time: '2026-03-23T01:25:56.0000000+00:00'
