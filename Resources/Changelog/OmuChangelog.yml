@@ -2959,3 +2959,9 @@ Entries:
       message: Added Shipyard functionality, to be mapped at a later date.
   id: 378
   time: '2026-03-29T19:21:25.0000000+00:00'
+- author: Anui-ElXx
+  changes:
+    - type: Remove
+      message: Removes deep-meow from the game
+  id: 379
+  time: '2026-03-29T19:23:42.0000000+00:00'
