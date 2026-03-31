@@ -450,6 +450,7 @@
     - Tradeband
     - Schechi
     - NewKinPidgin
+    - NovuNederic # Omustation
     understands:
     - TauCetiBasic
     - Canilunzt
@@ -471,28 +472,9 @@
     - Sign
     - Schechi
     - NewKinPidgin
+    - NovuNederic # Omustation
   - type: SpeechSynthesis # Corvax-Frontier-Barks
     voice: Borg
-  - type: LanguageKnowledge # Einstein Engines - Language | Omustation - This has been added in here to have the AI speak unique languages, Borgs and the AI should speak all common languages, minus sign, which they should just understand.
-    speaks:
-    - TauCetiBasic
-    - RobotTalk
-    - Elyran # Omustation start - Borgs and the AI should speak all common languages, minus sign, which they should just understand.
-    - Freespeak
-    - NovuNederic
-    - SolCommon
-    - TauCetiBasic
-    - Tradeband # Omustation end
-    understands:
-    - TauCetiBasic
-    - RobotTalk
-    - Elyran # Omustation start - Borgs and the AI should speak all common languages, minus sign, which they should just understand.
-    - Freespeak
-    - NovuNederic
-    - SolCommon
-    - TauCetiBasic
-    - Tradeband
-    - Sign # Omustation end
 
 # Hologram projection that the AI's eye tracks.
 - type: entity
