@@ -3211,3 +3211,9 @@ Entries:
       message: 'Fixed pirate EVA suits not having space protection. '
   id: 407
   time: '2026-04-07T09:35:52.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed salv borgs being able to carry mech PKAs.
+  id: 408
+  time: '2026-04-07T14:24:04.0000000+00:00'
