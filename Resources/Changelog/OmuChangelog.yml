@@ -3241,3 +3241,11 @@ Entries:
       message: Glow in the dark wave pulse markings for thaven
   id: 412
   time: '2026-04-08T00:39:05.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: >-
+        Added fonts to the thaven languages, also a trait for bieselized
+        eckeckyik
+  id: 413
+  time: '2026-04-08T00:40:30.0000000+00:00'
