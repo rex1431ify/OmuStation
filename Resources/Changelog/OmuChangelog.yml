@@ -3407,3 +3407,11 @@ Entries:
       message: Patreon page now says 2x eggs rather than 2x goobcoin.
   id: 436
   time: '2026-04-16T08:07:01.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        Northstars and Concussive Gauntlets now actually need to be worn to
+        work.
+  id: 437
+  time: '2026-04-16T08:08:32.0000000+00:00'
