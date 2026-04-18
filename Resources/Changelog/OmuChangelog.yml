@@ -3461,3 +3461,13 @@ Entries:
         exist anymore
   id: 444
   time: '2026-04-18T23:26:26.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: >-
+        brought back old shaft miner jumpsuit and renamed it so you know its
+        really old
+    - type: Fix
+      message: Salvage no longer has 2 jumpsuit tabs in their loadout
+  id: 445
+  time: '2026-04-18T23:34:21.0000000+00:00'
