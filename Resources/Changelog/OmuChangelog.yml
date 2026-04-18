@@ -3453,3 +3453,11 @@ Entries:
         found in the emagged autodrobe inventory.
   id: 443
   time: '2026-04-18T23:25:57.0000000+00:00'
+- author: PhonyRaven
+  changes:
+    - type: Fix
+      message: >-
+        The Admin Assistant's SOP no longer mentions busywork which doesn't
+        exist anymore
+  id: 444
+  time: '2026-04-18T23:26:26.0000000+00:00'
